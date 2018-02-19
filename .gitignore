@@ -1,0 +1,16 @@
+.DS_Store
+
+*.swp
+*.pyc
+.ipynb_checkpoints/
+
+
+# ignore images, avoid large repo
+*.jpg
+*.png
+
+# data file
+readonly/
+*.h5
+*.csv
+*.zip
