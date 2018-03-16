@@ -4,6 +4,8 @@
 *.pyc
 .ipynb_checkpoints/
 
+__pycache__/
+reviews/
 
 # ignore images, avoid large repo
 *.jpg
@@ -12,5 +14,6 @@
 # data file
 readonly/
 *.h5
+*.hdf5
 *.csv
 *.zip
