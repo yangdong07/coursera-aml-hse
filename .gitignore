@@ -6,10 +6,12 @@
 
 __pycache__/
 reviews/
+flower_photos/
 
 # ignore images, avoid large repo
 *.jpg
 *.png
+*.tgz
 
 # data file
 readonly/
